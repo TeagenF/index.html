@@ -1,0 +1,30 @@
+body {
+  background-color: #F0F0F0;
+  color:#3E497A;
+  font-family: Helvetica, sans-serif;
+}
+h1 {color:#21325E;}
+h3 {color:#21325E;}
+
+hr {
+  height: 10px;
+  width: 30%;
+  border-style: none;
+  border-top-style: dotted;
+  border-color:#F1D00A;
+  border-width: 7px;
+  }
+thead {color:#313552;}
+img {
+border-radius: 8px;
+}
+img {
+max-width: 80%;
+height: auto;
+}
+img {
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 35%;
+}
